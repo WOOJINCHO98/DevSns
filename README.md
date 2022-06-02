@@ -1,0 +1,2 @@
+# DevSns
+Developer Sns Django
